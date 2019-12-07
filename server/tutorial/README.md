@@ -1,4 +1,4 @@
-# app
+# tutorial
 
 ## Project setup
 ```
